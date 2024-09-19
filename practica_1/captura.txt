@@ -1,0 +1,9 @@
+pegar captura de la insignia 
+
+git status
+
+git add . todo cambio
+
+git commit -m "practica x"
+
+git push
