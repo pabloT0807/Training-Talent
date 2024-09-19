@@ -1,5 +1,7 @@
 pegar captura de la insignia 
 
+y la insignia de ayer 18 de sep
+
 git status
 
 git add . todo cambio
